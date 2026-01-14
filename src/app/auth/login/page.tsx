@@ -1,6 +1,4 @@
 import { Grid, Paper } from '@mui/material';
-import HankoAuth from '../../components/HankoAuth';
-
 export default function LoginPage() {
     return (
         <Grid
